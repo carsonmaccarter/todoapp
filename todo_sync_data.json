@@ -1,1 +1,118 @@
-{"tasks":[],"projects":[],"labels":[]}
+{
+  "tasks": [
+    {
+      "id": "t1",
+      "name": "Hit the gym with Lucas",
+      "project": "p1",
+      "due": "2026-06-12",
+      "priority": "medium",
+      "label": "",
+      "done": true,
+      "created": 1781237930761
+    },
+    {
+      "id": "t2",
+      "name": "Team meeting",
+      "project": "p2",
+      "due": "2026-06-12",
+      "priority": "high",
+      "label": "l1",
+      "done": false,
+      "created": 1781238930761
+    },
+    {
+      "id": "t3",
+      "name": "Finish expense report",
+      "project": "p2",
+      "due": "2026-06-13",
+      "priority": "medium",
+      "label": "",
+      "done": false,
+      "created": 1781239930761
+    },
+    {
+      "id": "t4",
+      "name": "Buy camera battery",
+      "project": "p3",
+      "due": "2026-06-14",
+      "priority": "low",
+      "label": "l2",
+      "done": false,
+      "created": 1781240930761
+    },
+    {
+      "id": "t5",
+      "name": "Book flights",
+      "project": "p1",
+      "due": "2026-06-16",
+      "priority": "high",
+      "label": "l1",
+      "done": false,
+      "created": 1781241930761
+    },
+    {
+      "id": "wixeq6v",
+      "name": "test",
+      "project": "p1",
+      "due": "2026-06-12",
+      "priority": "none",
+      "label": "",
+      "done": false,
+      "created": 1781242939627
+    },
+    {
+      "id": "efypofd",
+      "name": "test 456",
+      "project": "p1",
+      "due": "",
+      "priority": "none",
+      "label": "",
+      "done": false,
+      "created": 1781250925753
+    },
+    {
+      "id": "x20zubm",
+      "name": "hello",
+      "project": "p1",
+      "due": "2026-06-12",
+      "priority": "none",
+      "label": "",
+      "done": false,
+      "created": 1781251436976
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "name": "Personal",
+      "color": "#10b981"
+    },
+    {
+      "id": "p2",
+      "name": "Work",
+      "color": "#3478f6"
+    },
+    {
+      "id": "p3",
+      "name": "Errands",
+      "color": "#f59e0b"
+    }
+  ],
+  "labels": [
+    {
+      "id": "l1",
+      "name": "Important",
+      "color": "#ef4444"
+    },
+    {
+      "id": "l2",
+      "name": "Errand",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "l3",
+      "name": "Waiting",
+      "color": "#8b5cf6"
+    }
+  ]
+}
