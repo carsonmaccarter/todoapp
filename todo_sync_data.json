@@ -59,36 +59,6 @@
       "label": "",
       "done": false,
       "created": 1781242939627
-    },
-    {
-      "id": "efypofd",
-      "name": "test 456",
-      "project": "p1",
-      "due": "",
-      "priority": "none",
-      "label": "",
-      "done": false,
-      "created": 1781250925753
-    },
-    {
-      "id": "x20zubm",
-      "name": "hello",
-      "project": "p1",
-      "due": "2026-06-12",
-      "priority": "none",
-      "label": "",
-      "done": false,
-      "created": 1781251436976
-    },
-    {
-      "id": "0oo1hjo",
-      "name": "abcd1234 test hello",
-      "project": "p1",
-      "due": "2026-06-12",
-      "priority": "none",
-      "label": "",
-      "done": false,
-      "created": 1781252460932
     }
   ],
   "projects": [
