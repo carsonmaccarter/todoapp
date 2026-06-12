@@ -80,6 +80,17 @@
       "done": false,
       "created": 1781253106761,
       "updated": 1781253106761
+    },
+    {
+      "id": "1tl94di",
+      "name": "test 3",
+      "project": "p1",
+      "due": "2026-06-12",
+      "priority": "none",
+      "label": "",
+      "done": false,
+      "created": 1781308488182,
+      "updated": 1781308488182
     }
   ],
   "projects": [
@@ -116,5 +127,5 @@
       "color": "#8b5cf6"
     }
   ],
-  "savedAt": 1781308467794
+  "savedAt": 1781308489906
 }
